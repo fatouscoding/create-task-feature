@@ -1,11 +1,12 @@
 #Create Task Feature (Product Design)
 
 ## Disclaimer
+This project presents a simplified, non-confidential representation of product design work. All proprietary details, internal data, and identifying information have been removed or modified.
 
-This project showcases a simplified and non-confidential version of product design work. All sensitive or proprietary information has been removed.
+---
 
 ## Overview
-Designed a task creation workflow for a civic-tech platform used by government officials to manage high-volume constituent communication and casework.
+Designed a task creation workflow for a civic-tech platform supporting high-volume communication and case management.
 
 This feature improves efficiency by enabling users to quickly create, assign, and track tasks directly within their workflow.
 
