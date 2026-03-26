@@ -77,5 +77,5 @@ The solution allows users to:
 
 ---
 
-## (Optional) Video Demo
-[Watch Demo](YOUR_LOOM_LINK_HERE)
+## Demo
+Available upon request
