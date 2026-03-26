@@ -79,4 +79,4 @@ The solution allows users to:
 ---
 
 ## Demo
-Available upon request
+Available upon request- proprietary UI details omitted per company policy
