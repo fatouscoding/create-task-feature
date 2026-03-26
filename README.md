@@ -1,4 +1,4 @@
-# Civic – Create Task Feature (Product Design)
+#Create Task Feature (Product Design)
 
 ## Disclaimer
 
